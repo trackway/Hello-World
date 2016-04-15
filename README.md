@@ -1,2 +1,2 @@
 # Hello-World
-Lear how to use gihub.
+Learn how to use the gihub.
